@@ -8,6 +8,15 @@
 - Numpy 1.16.4
 - Pandas 0.24.2
 
+## Introduction:
+"Fake News" is a term used to represent fabricated news or propaganda comprising
+misinformation communicated through traditional media channels like print, and
+television as well as non-traditional media channels like social media. The general
+motive to spread such news is to mislead the readers, damage reputation of any entity,
+or to gain from sensationalism.
+
+![Screenshot](fakeNews.jpg)
+
 ### Code execution instructions
 - Download the dataset and put it in same folder where Fake_News_Detection.ipynb is
 placed. Or click on the [colab link](https://colab.research.google.com/drive/13yGZ9r4ja_cw2v1UDjN4nUkhy61jeEcI), open it in playground mode
